@@ -25,3 +25,10 @@ body {
     width: 100%;
     max-width: 748px;
 }
+
+.main{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
